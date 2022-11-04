@@ -1,0 +1,15 @@
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.exe
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.deps.json
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.runtimeconfig.json
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.dll
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\bin\Debug\net6.0\ConsoleCalculator.pdb
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.csproj.AssemblyReference.cache
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.AssemblyInfo.cs
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.dll
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\obj\Debug\net6.0\refint\ConsoleCalculator.dll
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.pdb
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.genruntimeconfig.cache
+C:\Users\vagan\OneDrive\Рабочий стол\C#\ConsoleCalculator\obj\Debug\net6.0\ref\ConsoleCalculator.dll
